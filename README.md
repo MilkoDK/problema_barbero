@@ -1,4 +1,4 @@
-# problema_barbero
+# Problema del barbero
 
 El problema consiste en una barbería en la que trabaja un barbero que tiene un único sillón   
 de barbero y varias sillas para esperar. Cuando no hay clientes, el barbero se sienta en una   
